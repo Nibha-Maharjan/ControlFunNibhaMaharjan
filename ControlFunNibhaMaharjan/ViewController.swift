@@ -8,7 +8,10 @@
 import UIKit
 
 class ViewController: UIViewController {
-
+    
+    
+    
+    //initialize
     @IBOutlet weak var nameField: UITextField!
     @IBOutlet weak var numberField: UITextField!
     @IBOutlet weak var sliderLabel: UILabel!
